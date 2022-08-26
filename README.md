@@ -29,4 +29,5 @@ We present the MGC Hybrid Fusion Dataset, a new open dataset for music genre cla
 - [Manco’s](https://doi.org/10.1109/ICASSP43922.2022.9746996) : "Learning music audio representations via weak language supervision"
 
 ## <span id='algorithm'>Algorithm</span>
+![equ](https://user-images.githubusercontent.com/80112749/186860583-cb5e8206-dee5-4714-8eab-23925a7dafa4.png)
 ![Algorithm](https://user-images.githubusercontent.com/80112749/186843005-e92e602b-3056-4ab0-861a-f0fe5b37c149.png)
