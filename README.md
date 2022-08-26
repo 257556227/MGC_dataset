@@ -1,20 +1,20 @@
 # Music genre classification
 Source code and dataset of the our paper "Music Genre Classification Based on Fusing Audio and Lyric Information"
 
-- Overview
-- Dataset
-- Baselines
-- Algorithm
+- <a href='#overview'>Overview</a>
+- <a href='#dataset'>Dataset</a>
+- <a href='#baselines'>Baselines</a>
+- <a href='#algorithm'>Algorithm</a>
 
-## Overview
+## <span id='overview'>Overview</span>
 ![overview](https://user-images.githubusercontent.com/80112749/186842601-78c7851d-840b-4158-a5bc-3d039f872f4c.png)
 
-## Dataset
+## <span id='dataset'>Dataset</span>
 We present the MGC Hybrid Fusion Dataset, a new open dataset for music genre classification. We built the dataset ourselves, which is the corresponding songs retrieved and downloaded from music websites using the songs from the mertroLyrics dataset on Kaggle and the song title information. The dataset contains 5,000 songs from folk, metal, country, hip-hop and jazz. We provide raw audio in mp3 format, the extracted audio features and the corresponding lyrics dataset.
 
 ### This dataset will be published after our paper is accepted.
 
-## Baselines
+## <span id='baselines'>Baselines</span>
 ### 1. The single-modal methods
 - [Zhang’s](https://doi.org/10.21437/interspeech.2016-1236) : "Improved music genre classification with convolutional neural networks"
 - [Pons’s](https://doi.org/10.48550/arXiv.1711.02520) : "End-to-end learning for music audio tagging at scale"
@@ -28,5 +28,5 @@ We present the MGC Hybrid Fusion Dataset, a new open dataset for music genre cla
 - [Wadhwa’s](https://doi.org/10.1109/GHCI50508.2021.9514020) : "Music genre classification using multi-modal deep learning based fusion"
 - [Manco’s](https://doi.org/10.1109/ICASSP43922.2022.9746996) : "Learning music audio representations via weak language supervision"
 
-## Algorithm
+## <span id='algorithm'>Algorithm</span>
 ![Algorithm](https://user-images.githubusercontent.com/80112749/186843005-e92e602b-3056-4ab0-861a-f0fe5b37c149.png)
