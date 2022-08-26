@@ -1,2 +1,2 @@
-# MGC_dataset
-Metadata, features and for the MGC_hybrid fusion dataset
+# MGC_hybrid fusion dataset
+This data set will be published after our paper is received.
