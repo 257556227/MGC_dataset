@@ -30,5 +30,6 @@ We present the MGC Hybrid Fusion Dataset, a new open dataset for music genre cla
 
 ## <span id='algorithm'>Algorithm</span>
 ![equ](https://user-images.githubusercontent.com/80112749/186860583-cb5e8206-dee5-4714-8eab-23925a7dafa4.png)
+
 $D$ is the set of training samples, $K$ is the number of music categories, $output_i^{(j)}$ is the probability of predicting the $j$-th sample as the $i$-th music category, and $y^{(j)}$ is 1 when the prediction of the $j$-th sample is correct; otherwise, it is 0.
 ![Algorithm](https://user-images.githubusercontent.com/80112749/186843005-e92e602b-3056-4ab0-861a-f0fe5b37c149.png)
